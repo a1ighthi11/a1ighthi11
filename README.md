@@ -31,14 +31,6 @@ I'm an Information Technology Professional specializing in System Administration
 
 ### Systems Administrator - Medical Management Systems of Michigan, Lansing, MI
 
-## 📫 How to reach me
-
-You can reach me at alighthill@gmail.com or call me at 989.413.0859.
-
-> ⚠️ Please note: Do not share sensitive information like your address and phone number publicly on your GitHub profile for your own safety.
-
-
-
 <!---
 a1ighthi11/a1ighthi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
